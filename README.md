@@ -9,4 +9,4 @@ Anyone who wants to make charts with Mod of CirCybe is welcome. **0w0**
 
 *We live to create rather than devastate.*
 
-Sponsored by [a fish](https://github.com/astro-angelfish).
+Owning [a fish](https://github.com/astro-angelfish).
